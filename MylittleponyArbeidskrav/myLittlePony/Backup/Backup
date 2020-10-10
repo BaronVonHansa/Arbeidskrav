@@ -1,0 +1,46 @@
+div class="Box" id="Box1"><h1>Example text</h1></div>
+            <div class="Box" id="Box2"><h1>Example text</h1></div>
+            <div class="Box" id="Box3"><h1>Example text</h1><p>Example</p></div>
+            
+            
+            
+            
+            css
+            
+            
+/*
+.Box{
+    padding: 5px;
+    margin-top: 50px;
+    border: 1px solid rebeccapurple;
+    
+}
+#Box1{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    background-color:rgba(256,256,256,0.3);
+    
+}
+#Box2{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    background-color:rgba(256,256,256,0.3);
+    
+}                             
+#Box3{
+    position: relative;
+    width: 300px;
+    height: 500px;
+    background-color:rgba(256,256,256,0.3);
+    
+}
+.Box h1{
+    text-align: center;
+    color: white;
+} 
+.Box p{
+    margin:10px;
+    text-align: center;
+}
